@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\HttpLight\bin\Debug\net9.0\HttpLight.deps.json
+C:\Users\Admin\source\repos\HttpLight\bin\Debug\net9.0\HttpLight.dll
+C:\Users\Admin\source\repos\HttpLight\bin\Debug\net9.0\HttpLight.pdb
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\HttpLight.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\HttpLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\HttpLight.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\HttpLight.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\HttpLight.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\HttpLight.dll
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\refint\HttpLight.dll
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\HttpLight.pdb
+C:\Users\Admin\source\repos\HttpLight\obj\Debug\net9.0\ref\HttpLight.dll
